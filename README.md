@@ -205,8 +205,8 @@ Stock never goes negative. Insufficient stock at CONFIRMED time prevents confirm
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aditya414256/Medi-Finder.git
-cd Medi-Finder
+git clone https://github.com/Aditya414256/pro-exp-.git
+cd pro-exp-
 
 # Create and activate virtual environment
 python -m venv venv
