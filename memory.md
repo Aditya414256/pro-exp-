@@ -2,7 +2,6 @@
 
 **Repository:** https://github.com/Aditya414256/pro-exp-  
 **Branch inspected:** `main`  
-**Folder:** `test project/`  
 **Last repository inspection:** 2026-11-12
 
 This file is the handoff note for future AI coding sessions. Update it after meaningful implementation work. The current contents describe the inspected baseline; they are not a live status feed.

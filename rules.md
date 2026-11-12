@@ -1,6 +1,6 @@
 # MediFind — AI Agent and Development Rules
 
-These rules apply to every developer and AI coding agent working in this repository, especially experiments under `test project/`.
+These rules apply to every developer and AI coding agent working in this repository.
 
 ## 1. Protect the existing application
 
